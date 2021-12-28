@@ -9,9 +9,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "c:/Users/ahmad/Desktop/project",
+      "cwd": "c:/Users/ahmad/Desktop/heelo",
       "environment": [],
-      "program": "c:/Users/ahmad/Desktop/project/build/Debug/outDebug",
+      "program": "c:/Users/ahmad/Desktop/heelo/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/msys64/mingw64/bin/gdb.exe",
