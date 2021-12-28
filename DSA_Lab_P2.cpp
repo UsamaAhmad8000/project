@@ -6,12 +6,12 @@ string one[] = { "", "one ", "two ", "three ", "four ",
                  "nine ", "ten ", "eleven ", "twelve ", 
                  "thirteen ", "fourteen ", "fifteen ", 
                  "sixteen ", "seventeen ", "eighteen ", 
-                 "nineteen “}; 
+                 "nineteen "}; 
   
 
 string ten[] = { "", "", "twenty - ", "thirty - ", "forty - ", 
                  "fifty - ", "sixty - ", "seventy - ", "eighty - ", 
-                 "ninety - “}; 
+                 "ninety - "}; 
 
   
 string hundred[]={"", "hundred ", "two hundred ", "three hundred ",
